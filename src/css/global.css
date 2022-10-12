@@ -6,6 +6,9 @@ html {
 
 body {
   background-color: var(--background);
+  background-image: radial-gradient(color-mod(var(--accent) alpha(15%)), 1px, white 1px);
+  background-blend-mode: multiply;
+  background-size: 30px 30px;
 }
 
 body::-webkit-scrollbar {
@@ -206,7 +209,7 @@ pre::-webkit-scrollbar-thumb {
 
 pre,
 code {
-  font-family: "Inconsolata", monospace;
+  font-family: 'Liberation Mono', monospace;
 }
 
 pre code {

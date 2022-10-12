@@ -1,39 +1,28 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "name": "Fred's Blog",
+  "description": "Fred's Blog",
+  "url": "https://letsgettoknow.me",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Fred A.",
+    "email": "ancinape@tutanota.com"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
-      "text": "Blog",
-      "url": "/blog",
+      "text": "Archive",
+      "url": "/archive",
       "external": false
     },
     {
-      "text": "About",
-      "url": "/about",
+      "text": "Me",
+      "url": "/me",
       "external": false
     }
   ],
   "socialLinks": [
     {
-      "text": "Instagram",
-      "url": "https://instagram.com/",
-      "external": true
-    },
-    {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
-      "external": true
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
+      "url": "https://github.com/ancinape",
       "external": true
     }
   ],

@@ -7,8 +7,9 @@
 
     {% bundledcss %}
 
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/eiisabethische" type="text/css"/>
+    <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+    {# <script defer data-domain="letsgettoknow.me" src="https://analytics.letsgettoknow.me/js/plausible.outbound-links.js"></script> #}
 
     <title>
       {{  title  | escape }}
@@ -132,16 +133,15 @@
 
           {% if site.showFooterAttribution %}
             <p class="footer__attribution">
-          Created by
-      <a href="https://twitter.com/yinkakun" target="_blank" rel="noopener">Yinka,</a>
-       Powered by <a href="https://www.11ty.dev" target="_blank" rel="noopener">11ty,</a>
-        Checkout <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener noreferrer">project's github repo </a>
+              Powered by <a href="https://www.11ty.dev" target="_blank" rel="noopener">11ty,</a>
+              Original <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener noreferrer">11ty Template</a>
+              
             </p>
           {% endif %}
 
         </div>
       </div>
-
+    <div id="wcb" class="carbonbadge"></div>
     </footer>
 
     {% bundledjs %}
