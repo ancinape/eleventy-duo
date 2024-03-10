@@ -3,7 +3,7 @@ title: A post containing code block with very long lines of code
 description: Health goth raw denim vaporware waistcoat, vegan neutra glossier. Cronut chartreuse tbh meh schlitz. Snackwave lumbersexual pinterest narwhal.
 permalink: posts/{{ title | slug }}/index.html
 date: '2021-06-28'
-tags: [demo-content, code]
+tags: [code]
 ---
 
 Health goth raw denim vaporware waistcoat, vegan neutra glossier. Cronut chartreuse tbh meh schlitz. Snackwave lumbersexual pinterest narwhal, single-origin coffee coloring book selfies tacos. Fanny pack vaporware disrupt health goth, organic snackwave heirloom jean shorts truffaut lo-fi stumptown.

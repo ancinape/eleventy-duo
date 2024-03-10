@@ -3,11 +3,10 @@ layout: home
 title: '* * *'
 ---
 
-# Привет
-##### (means hi)
+# Привет<h6><sup> (it means hi)</sup></h6>
 
 
-I'm a technologist and this is my tech blog.
+You came across my blog.
 
 I post my thoughts [here](/blog/).
 

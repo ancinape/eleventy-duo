@@ -1,14 +1,12 @@
 ---
 title: Me
 layout: about.njk
-name: Fred
+name: me
 image: '/images/me.jpg'
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
+I go by Fred. I am an general technologist with an interest in Extended Reality, DevOps, and programming. I am also into vexillology, veganism, and video games. I use Arch btw.
 
-He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
+I currently reside in Connecticut, US.
 
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
-
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+I am open to talk about literally anything, Feel free to email me at [ancinape@tutanota.com](mailto:ancinape@tutanota.com).

@@ -1,0 +1,46 @@
+---
+title: "My Career Chase 2"
+description: "Pessimistic sequel to a classic post of the same name. This article covers the 6 month progress and changes to my job hunting routine since my article in May, 2022."
+permalink: posts/{{ title | slug }}/index.html
+date: '2022-10-26'
+tags: [career, personal]
+---
+
+Pessimistic sequel to a post of the same name. This article covers the 6 month progress and changes to my job hunting routine since my article in May, 2022.
+
+## Resume
+I never stopped editing my resume. Every 50 or so resumes in, I felt the need to edit my resume. Since my previous resume shown here, I have made 4 more versions, not counting the minor changes included in each version.
+
+### Version 5
+Version 5 was a complete re-format of version 4. After receiving advice from my employer, I made multiple structural and language changes. The primary difference once could see is the abandonment of the “pansexual” colors for a boring set of crimson, black, and white. It was also initially in a two column form, though that was later changed. In this version, work experience made a return but it was split rather equally between projects and experience. While the format was the biggest difference, the language was the biggest problem. Projects were described vaguely and experience sounded boring. I was yet to learn the [STAR method](https://ca.indeed.com/career-advice/resumes-cover-letters/resume-star-method) effectively.
+
+The issues with version 5 were apparent. The colors on the resume were distracting and these versions turned to be unruly when trying to add new bullets. I needed a way to produce resumes quickly without fussing with formatting. This need led me to version 6.
+
+### Version 6
+This resume was so much more effective than 5 that there were no applications using version 5. Around the time of this resume’s inception, I was following the subreddits  [r/cscareerquestions](https://reddit.com/r/cscareerquestions/) and [r/EngineeringResumes](https://reddit.com/r/EngineeringResumes/). This was radioactive exposure, in multiple meanings. I was able to find advice to support every resume version I ever made. I read hundreds of threads discussing multiple ways to possibly increase or decrease chances to acquire a new job. I found so much conflicting advice, such as whether to apply to big tech companies or start ups as a new grad, or whether cover letters harm one’s application rather than help it. EngineeringResumes was in unison for one thing, that colorful resumes like mine quickly go to the discard pile. They recommended Overleaf with a format like [Jake’s Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs). It was in LaTex, which was a familiar friend to me from my college days.
+
+I initially found the use of an existing resume format depressing. My first 5 resumes could be considered as paper weight if I were to adopt someone else’s efforts. However, I was thankful for LaTex’s flexibility. No more did I have to worry about formatting and spacing on Inkscape and Adobe Illustrator. It was simple to add new bullets and let LaTex do the work. I cannot go back!
+
+The text on version 6 was nearly identical to version 5: mostly focused on work experience with one or two projects. While this was the traditional route, I felt myself limited showing only work experience. I do a ton of stuff on the side, like making this website, that I believed could impress recruiters far better than my experience. This was solved in version 7.
+
+### Version 7
+Looks nearly identical, reads totally different from version 6. This one was a spiritual successor to version 4, when projects took up most of the resume. This was also the first time when I switched the official titles of my roles in my internships to unofficial ones, the ones that were branded on the company websites rather than the one in my HR profile page. It was also the first time I directly linked and described the amateur work that I do under projects. Half of work experience had to be sacrificed to make way for the new projects. It was risky to include my hobby projects on my resume but I wanted to see if it would increase my chances.
+
+After making version 7, I was not sure whether it was more effective than version 6. It seemed both served different purposes: 6 was for traditional roles like in IT while 7 might work for game development or other project-based work. Ultimately, I iterated between the two depending on the job description. I could not tell if 7 was an improvement. While 6 received more responses, this was right before the recession/summer vacations in August. It was hard to equate the two.
+
+Seeing little improvement in the amount of responses between versions 4 to 7, I felt something else egregious must be on my single-page paper. I concluded it was the text, which required a switch to a standard like the STAR method.
+
+### Version 8
+My final version, the torture crown for all my efforts. The text was updated massively and a balance was made between some projects and some experience. With the STAR method, my roles seemed far more impressive, as it should be. I also included my amateur work into my professional experience, finally sharing the spotlight for my continuous project work like this website. It is a little unethical to describe work outside of my scheduled tasks, however, they did occur in the same timeframe as my employments. It is not as if I was advertising skills I did not have.
+
+Version 8 was the versatile resume that was fit for any type of tech. Job. There were enough bullets in the work experience to attract coding-minded jobs like SWE and there were enough bullets to attract non-coding jobs like IT. At this point, it was a matter of time until one of my applications lands in the right office, in the right time. My history was impressive, someone just had to give me a chance.
+
+### Cover Letter
+I never got a chance to cover this in the previous career chase. I used to send cover letters, keeping multiple versions of the letter on my computer, switching the paragraphs and company names whenever necessary. Eventually, I did away with it after version 4 as most professionals in the field do not send cover letter. I did not think of anything I could say that the resume did not make evident itself. And if I could, then my resume was just lacking. I would no longer send cover letters with my applications. In addition, some consider cover letters harmful to one’s chances since it is a narrative that can be interpreted in different ways. At best, it is never read. At worst, it hurts one’s chances. So, what's the point?
+
+### End of the Chase?
+At the time of writing, I was promoted by my employer to a full-time regular position where I am. The need to look for a new job, thus, died down. In a way, I succeeded in my plan to find a regular job by the end of 2022, just not through the efforts described here.
+
+Job hunting is a difficult trek that I would not wish on my worst enemy. I thought education was the most stressful and difficult era of my life but job hunting is an equivocally stressful due to the amount of conflicting advice and ambiguous feedback. It never feels like one improves one’s chances in finding a job outside of a gut feeling. And that’s what I ended with, that all these efforts were driven more by gut feelings than by data or strategy. Most people do not know how to hire or how to get hired.  It is like evolution where the right series of random probabilities must strike true for one to succeed. One must be lucky enough to see their resume pass the ATS tracking, to be read by a person, to be considered the best paper in the stack, and hope to God that the salary would be good enough to accept the offer. It has always been a numbers game.
+
+At least I made a couple of websites and had fun playing in LaTex. I learned so much over the year that any one else in my circle would received a massive leg-up if they were to ask for my advice. I could save them a lot of headache. And I hope this article saved a few of them for you too.

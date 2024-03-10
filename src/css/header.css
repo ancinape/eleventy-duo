@@ -44,7 +44,7 @@
 }
 
 .nav__list a {
-  color: rgb(117, 117, 117);
+  color: color-mod(var(--color) alpha(90%));
   text-decoration: none;
   margin-top: 1rem;
   margin-bottom: 1rem;
